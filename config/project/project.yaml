@@ -1,0 +1,17 @@
+dateModified: 1617594165
+email:
+  fromEmail: montypadre77@gmail.com
+  fromName: NDMaddhouse
+  transportType: craft\mail\transportadapters\Sendmail
+system:
+  edition: solo
+  live: true
+  name: NDMaddhouse
+  schemaVersion: 3.6.7
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
