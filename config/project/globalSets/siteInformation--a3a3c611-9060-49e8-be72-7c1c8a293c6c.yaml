@@ -1,0 +1,18 @@
+fieldLayouts:
+  795b943f-e93a-4392-b5ad-909119d262aa:
+    tabs:
+      -
+        elements:
+          -
+            fieldUid: fddb0e88-0295-4ef6-9f5b-91de69313ca9 # Site Description
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+        name: Memetic
+        sortOrder: 1
+handle: siteInformation
+name: 'Site Information'

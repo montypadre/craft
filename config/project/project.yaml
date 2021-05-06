@@ -1,14 +1,20 @@
-dateModified: 1617594165
+dateModified: 1620273682
 email:
   fromEmail: montypadre77@gmail.com
   fromName: NDMaddhouse
   transportType: craft\mail\transportadapters\Sendmail
+plugins:
+  redactor:
+    edition: standard
+    enabled: true
+    schemaVersion: 2.3.0
 system:
   edition: solo
   live: true
   name: NDMaddhouse
-  schemaVersion: 3.6.7
-  timeZone: America/Los_Angeles
+  retryDuration: null
+  schemaVersion: 3.6.8
+  timeZone: America/Chicago
 users:
   allowPublicRegistration: false
   defaultGroup: null
